@@ -179,4 +179,4 @@ Give your website a title, username, and secure password.
 
 **FIN**
 
-(they live happy for ever ...)
+(They lived happily ever after ...)
