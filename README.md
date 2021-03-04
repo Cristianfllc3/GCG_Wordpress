@@ -1,6 +1,6 @@
 # GCG_Wordpress
 
-**HOW TO HOST A FREE WEBSITE ON GOOGLE CLOUD PLATFORM
+**HOW TO HOST A FREE WEBSITE ON GOOGLE CLOUD PLATFORM**
 (without/with domain)  
 ---------------------------------------------------------------------------    
 Based on:   
@@ -8,10 +8,10 @@ Based on:
 - https://tonyteaches.tech/google-cloud-free-website-hosting-tutorial/  
 (But with few others steps)  
   
-**1. CREATE A GOOGLE CLOUD PLATFORM ACCOUNT  
+**1. CREATE A GOOGLE CLOUD PLATFORM ACCOUNT**  
 First things first. Create yourself a Google Cloud Platform (GCP) account. This video will walk you through the process of setting up your GCP account if you don’t already have one  
   
-**Info: 
+**Info**: 
 
 - https://youtu.be/XcjeGDeSEew   
   
