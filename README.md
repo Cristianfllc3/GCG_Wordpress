@@ -177,8 +177,3 @@ Give your website a title, username, and secure password.
   
 **FIN**  
   
-(They lived happily ever after ...)  
-
-Example:  
-http://35.222.237.117/  
-  
