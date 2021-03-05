@@ -9,7 +9,7 @@ Based on:
 (But with few others steps)  
 
 **The final project:**
-http://35.222.237.117/
+http://35.222.237.117/  
 .    
     
 **1. CREATE A GOOGLE CLOUD PLATFORM ACCOUNT**  
