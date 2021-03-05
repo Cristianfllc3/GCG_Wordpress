@@ -8,8 +8,9 @@ Based on:
 - https://tonyteaches.tech/google-cloud-free-website-hosting-tutorial/  
 (But with few others steps)  
 
-The final project:
+**The final project:**
 http://35.222.237.117/
+.    
     
 **1. CREATE A GOOGLE CLOUD PLATFORM ACCOUNT**  
 First things first. Create yourself a Google Cloud Platform (GCP) account. This video will walk you through the process of setting up your GCP account if you don’t already have one  
