@@ -177,3 +177,9 @@ Give your website a title, username, and secure password.
   
 **FIN**  
   
+ **BONUS**
+ How to Setup WordPress on Google Cloud in One Click (It this easier but it cost!)
+https://www.youtube.com/watch?v=hj-EDypIPSM
+
+How to Point your Domain at a Google Cloud Instance
+https://www.youtube.com/watch?v=y0VgnNbCneU
